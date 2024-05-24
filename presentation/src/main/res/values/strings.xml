@@ -1,0 +1,5 @@
+<resources>
+    <string name="menu_list">Pokemon</string>
+    <string name="menu_my_pokemon">My Pokemon</string>
+    <string name="text_error_data">Tidak dapat memuat data, Coba Lagi.</string>
+</resources>
